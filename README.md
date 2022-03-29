@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho na <a href="https://smartsupport.com.br">Smartsupport</a> : Desenvolvedor Fullstack.
-- 💻️ Estudando trilha ignite Node.JS | ReactJS e React Native <a href="https://www.rocketseat.com.br/ignite">Rocketseat 🚀️</a>.
+- 💻️ Estudando trilha ignite Node.JS, ReactJS e React Native <a href="https://www.rocketseat.com.br/ignite">Rocketseat 🚀️</a>.
 
 
 
