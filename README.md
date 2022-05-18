@@ -1,7 +1,7 @@
 ### Olá Sou Vinicius Nascimento 👋
 
 
-- 🔭 Trabalho na <a href="https://smartsupport.com.br">Smartsupport</a> : Desenvolvedor Fullstack.
+- 🔭 Trabalho na <a href="https://credifit.com.br">Credifit</a> : Desenvolvedor Fullstack NodeJS.
 - 💻️ Estudando trilha ignite Node.JS, ReactJS e React Native <a href="https://www.rocketseat.com.br/ignite">Rocketseat 🚀️</a>.
 
 
