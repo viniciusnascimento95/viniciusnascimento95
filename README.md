@@ -1,7 +1,7 @@
 ### Olá Sou Vinicius Nascimento 👋
 
 
-- 🔭 Trabalho na <a href="https://credifit.com.br">Credifit</a> : Desenvolvedor Fullstack NodeJS.
+- 🔭 Estou buscando uma nova oportunidade em Fullstack NodeJS.
 - 💻️ Estudando trilha ignite Node.JS, ReactJS e React Native <a href="https://www.rocketseat.com.br/ignite">Rocketseat 🚀️</a>.
 
 
