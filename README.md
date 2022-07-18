@@ -38,7 +38,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Vini-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Vini-Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Vini-Wordpress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">  
-  <img align="center" alt="Vini-Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
   <img align="center" alt="Vini-Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Vini-Rails" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg">  
   <img align="center" alt="Vini-Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
