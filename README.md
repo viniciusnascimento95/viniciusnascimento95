@@ -1,10 +1,8 @@
-### Olá Sou Vinicius Nascimento 👋
+### Olá Sou Vinicius Fernandes 👋
 
 
-- 🔭 Estou buscando uma nova oportunidade em Fullstack NodeJS.
+- 💻️ Estou trabalhando como desenvolvedor fullstack na <a href="https://seisistemas.com.br">Sei Sistemas</a>
 - 💻️ Estudando trilha ignite Node.JS, ReactJS e React Native <a href="https://www.rocketseat.com.br/ignite">Rocketseat 🚀️</a>.
-
-
 
 
 <!--
@@ -22,11 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 <div>
-  <!-- <a href="https://beacons.ai/viniciusnascimento95"> -->
+  <a href="https://beacons.ai/viniciusnascimento95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusnascimento95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusnascimento95&layout=compact&langs_count=16&theme=dark"/>
 </div>
+ -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   ##
   
 <div>
-  <a href="https://instagram.com/vinicius.fullstack" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/euvinicius.fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!-- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:nascimento.vinicius32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-027507159" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
