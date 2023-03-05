@@ -2,7 +2,7 @@
 
 
 - 💻️ Estou trabalhando como desenvolvedor fullstack na <a href="https://seisistemas.com.br">Sei Sistemas</a>
-- 💻️ Estudando trilha ignite Node.JS, ReactJS e React Native <a href="https://www.rocketseat.com.br/ignite">Rocketseat 🚀️</a>.
+- 💻️ Formações trilha ignite Node.JS, ReactJS e React Native <a href="https://www.rocketseat.com.br/ignite">Rocketseat 🚀️</a>.
 
 
 <!--
@@ -59,5 +59,5 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/euvinicius.fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!-- <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:nascimento.vinicius32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-027507159" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-fernandes-027507159" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
