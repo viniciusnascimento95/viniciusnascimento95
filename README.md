@@ -1,7 +1,7 @@
 ### Olá Sou Vinicius Fernandes 👋
 
 
-- 💻️ Estou trabalhando como desenvolvedor fullstack na <a href="https://seisistemas.com.br">Sei Sistemas</a> e Frontend developer na <a href="https://institucional.forluz.org.br">Forluz </a>
+- 💻️ Estou trabalhando como desenvolvedor fullstack na <a href="https://seisistemas.com.br">Sei Sistemas</a> e Frontend developer e Mobile developer na <a href="https://institucional.forluz.org.br">Forluz </a>
 - 💻️ Formações trilha ignite Node.JS, ReactJS e React Native <a href="https://www.rocketseat.com.br/ignite">Rocketseat 🚀️</a>.
 
 
